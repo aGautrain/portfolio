@@ -25,6 +25,21 @@ Full-stack avec Angular, Firebase
 
 [Dashboard Ratel en images](https://docs.google.com/document/d/e/2PACX-1vSr55ooHK1m0hEltpy-1XWs0u3cT7G292WE5-Mt2NWI2BPJLLYNayWa070rshey3TyK5lTpwq0DCAG4/pub)
 
+[Dashboard Ratel en code](https://github.com/aGautrain/ratel-dashboard)
+
 ### Autres projets
 
 Conception de sites web avec le framework Sails.js (surcouche d'Express/Node.js), Vue.js et MongoDB
+
+### Pour le futur
+
+- Environnement de travail dynamique
+- Produit innovant
+- Challenges techniques
+- Accroître ma compétence full-stack
+
+*Préférence pour l'écosystème JavaScript/TypeScript, Node.js, Vue, Angular, React*
+
+### Mon CV
+
+[Publié en ligne / 2024](https://docs.google.com/document/d/e/2PACX-1vQbBztDnMzlyJZFSc0Y99csvM6S8xW7VXjVUTu6U0Gs9ZQk61WvFLwqPxi685Dd63gy6vnXld-8-Til/pub)
