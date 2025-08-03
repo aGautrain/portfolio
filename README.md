@@ -4,8 +4,7 @@
 
 **Mediego est une solution de création et personnalisation de newsletters**
 
-Se présentant sous la forme d'un dashboard à destination des medias, la plateforme comprend de nombreuses fonctionnalités *(récupération des flux, design des maquettes, définition des règles de sélection d'articles, programmation de campagnes, suivi de la délivrabilité, recommendations personnalisées)*
-
+Se présentant sous la forme d'un dashboard à destination des medias, la plateforme comprend de nombreuses fonctionnalités _(récupération des flux, design des maquettes, définition des règles de sélection d'articles, programmation de campagnes, suivi de la délivrabilité, recommendations personnalisées)_
 
 **Lead Tech pour Mediego**, de la compréhension du besoin à l'implémentation et au déploiement en passant par la conception technique des interfaces
 
@@ -13,7 +12,6 @@ Au quotidien, en plus de la partie Développement, je m'occupe également de la 
 plus d'une dizaine de machines baremetal, upgrades d'OS, mise en place de processus cyber, industrialisation de l'infra avec Ansible et Docker et mise en place de monitoring
 
 Full-stack avec Angular, Scala, MongoDB, Kafka, Docker
-
 
 [Mediego en images](https://docs.google.com/document/d/e/2PACX-1vQKYmmnJ-BD5A-Mwvwzbp7UCHO94IsjdSNCOgm5TVXNb-6DeXhRkMVdG2-8YRnj-nDgFILxzxVBHl-p/pub)
 
@@ -38,8 +36,8 @@ Conception de sites web avec le framework Sails.js (surcouche d'Express/Node.js)
 - Challenges techniques
 - Accroître ma compétence full-stack
 
-*Préférence pour l'écosystème JavaScript/TypeScript, Node.js, Vue, Angular, React*
+_Préférence pour l'écosystème JavaScript/TypeScript, Node.js, Vue, Angular, React_
 
-### Mon CV
+### Mon site
 
-[Publié en ligne / 2024](https://docs.google.com/document/d/e/2PACX-1vQbBztDnMzlyJZFSc0Y99csvM6S8xW7VXjVUTu6U0Gs9ZQk61WvFLwqPxi685Dd63gy6vnXld-8-Til/pub)
+[Publié en ligne / 2025](https://antoine.gautrain.pro)

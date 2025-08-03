@@ -4,17 +4,14 @@
 
 **Mediego is a B2B solution around newsletters (creation, sending, personalization)**
 
-Its main target is medias and presents itself as a web dashboard, platform includes various features *(itemfeed fetching, templating, rules definition for feeding newsletters, campaigns monitoring, delivrability metrics, personalization with machine learning algorithms)*
-
+Its main target is medias and presents itself as a web dashboard, platform includes various features _(itemfeed fetching, templating, rules definition for feeding newsletters, campaigns monitoring, delivrability metrics, personalization with machine learning algorithms)_
 
 **Tech Lead for Mediego**, from being responsible for client relationship to technical implementations with dev ops constraints
 
 On a daily basis, I focus on bringing value to Mediego
 This task may includes roadmap definition, managing the infrastructure to monitor costs, solution design, client interactions and more
 
-
-*Full Stack with Angular, Scala, MongoDB, Kafka, Docker, Nginx, Ansible*
-
+_Full Stack with Angular, Scala, MongoDB, Kafka, Docker, Nginx, Ansible_
 
 [Mediego with pictures](https://docs.google.com/document/d/e/2PACX-1vQKYmmnJ-BD5A-Mwvwzbp7UCHO94IsjdSNCOgm5TVXNb-6DeXhRkMVdG2-8YRnj-nDgFILxzxVBHl-p/pub)
 
@@ -22,7 +19,7 @@ This task may includes roadmap definition, managing the infrastructure to monito
 
 **Brasilian Jiu-Jitsu Sport Club**, benevolent project to track attendance to classes, with a dashboard
 
-*Full Stack with Angular and Firebase (backend as a service)*
+_Full Stack with Angular and Firebase (backend as a service)_
 
 [Dashboard Ratel with pictures](https://docs.google.com/document/d/e/2PACX-1vSr55ooHK1m0hEltpy-1XWs0u3cT7G292WE5-Mt2NWI2BPJLLYNayWa070rshey3TyK5lTpwq0DCAG4/pub)
 
@@ -34,7 +31,7 @@ Web development with Sails.js framework (built on top of Express/Node.js) for th
 
 And Vue.js for the frontend
 
-*Pictures coming soon*
+_Pictures coming soon_
 
 ### For the Future
 
@@ -43,8 +40,8 @@ And Vue.js for the frontend
 - Technical Challenges
 - Improve Full-Stack Skills (aiming for a JavaScript stack)
 
-*JavaScript/TypeScript, Node.js, Vue, Angular, React*
+_JavaScript/TypeScript, Node.js, Vue, Angular, React_
 
-### My Resume
+### My Website
 
-[Published Online / 2024](https://docs.google.com/document/d/e/2PACX-1vSwOt8a4oN31qUARyFrJI1XGmcHs1t56nyMqFAsES0tORL7Tzxf0SVxY6gaVhfGCDoyuI6ZbEud_xN_/pub)
+[Published Online / 2025](https://antoine.gautrain.pro)
